@@ -1,0 +1,2 @@
+# Planung-und-Umsetzung-der-Sicherheits--und-Firewallstruktur-in-einer-virtualisierten-IT-Umgebung
+Die IT-Sicherheit zählt zu den kritischsten Herausforderungen moderner Unternehmen. Statistiken zeigen, dass ein Großteil aller Betriebe bereits von Cyberangriffen betroffen war. Vor diesem Hintergrund ist dieses Projekt von zentraler Bedeutung: Es demonstriert praxisnah, wie Sicherheitsarchitekturen in modernen IT-Infrastrukturen konzipiert .
