@@ -21,4 +21,9 @@ In diesem Schritt wurde der Windows Server in das Netzwerk integriert und mit ei
 <img width="997" height="610" alt="Screenshot 2026-06-27 200856" src="https://github.com/user-attachments/assets/9350ef9e-93db-4611-914c-6c5449a3957f" />
 <img width="1023" height="767" alt="Screenshot 2026-06-27 201950" src="https://github.com/user-attachments/assets/45499832-9c2e-4c76-a3b5-a362606aee6c" />
 
+## Schritt 5: Abschließende Funktionsprüfung und Verifikation
+Im finalen Schritt wird die Funktionsfähigkeit der gesamten Infrastruktur überprüft. Ziel ist es zu validieren, ob die Namensauflösung (DNS) über die pfSense-Firewall hinweg fehlerfrei arbeitet. Zudem wird der Nachweis erbracht, dass der Windows-Server seine Rolle als zentraler Domänencontroller erfüllt. Hierzu wird geprüft, ob der Linux-Client erfolgreich in der Active-Directory-Datenbank bzw. in den DNS-Zonen registriert wurde. Mittels eines gezielten nslookup-Befehls auf dem Server lässt sich verifizieren, ob der Hostname des Linux-Clients korrekt in die zugewiesene IP-Adresse aufgelöst wird, was die erfolgreiche zentrale Verwaltung bestätigt.
+<img width="1041" height="665" alt="Screenshot 2026-06-27 222635" src="https://github.com/user-attachments/assets/1be1f8d4-69e5-4bd2-855b-573053a27040" />
+
+
 ## 
